@@ -1,0 +1,9 @@
+cohort,prefire,status,points,est_area_kha,pct_natural_since_t-5
+2015,Forest,Burned,74,74.0,100.0
+2015,Forest,Unburned,34342,34218.0,99.7
+2015,Non-forest natural,Burned,265,264.0,96.2
+2015,Non-forest natural,Unburned,8153,8124.0,96.1
+2019,Forest,Burned,15,16.0,100.0
+2019,Forest,Unburned,32217,33335.0,99.6
+2019,Non-forest natural,Burned,208,215.0,94.2
+2019,Non-forest natural,Unburned,7406,7663.0,95.1

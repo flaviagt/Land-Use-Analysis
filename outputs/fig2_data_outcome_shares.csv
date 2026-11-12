@@ -1,0 +1,44 @@
+cohort,prefire,status,out5,share
+2015,Forest,Burned,Forest,0.12162162162162163
+2015,Forest,Burned,Non-forest natural,0.6756756756756757
+2015,Forest,Burned,Oil palm,0.10810810810810811
+2015,Forest,Burned,Other,0.05405405405405406
+2015,Forest,Burned,Other agriculture,0.02702702702702703
+2015,Forest,Burned,Pulpwood,0.013513513513513514
+2015,Forest,Unburned,Forest,0.9495661289383263
+2015,Forest,Unburned,Non-forest natural,0.025537243026032264
+2015,Forest,Unburned,Oil palm,0.01351115252460544
+2015,Forest,Unburned,Other,0.004979325607128298
+2015,Forest,Unburned,Other agriculture,0.004047521984741715
+2015,Forest,Unburned,Pulpwood,0.0023586279191660357
+2015,Non-forest natural,Burned,Forest,0.011320754716981131
+2015,Non-forest natural,Burned,Non-forest natural,0.8867924528301887
+2015,Non-forest natural,Burned,Oil palm,0.03018867924528302
+2015,Non-forest natural,Burned,Other,0.04150943396226415
+2015,Non-forest natural,Burned,Other agriculture,0.03018867924528302
+2015,Non-forest natural,Unburned,Forest,0.07764013246657672
+2015,Non-forest natural,Unburned,Non-forest natural,0.7765239789034711
+2015,Non-forest natural,Unburned,Oil palm,0.07150742058138108
+2015,Non-forest natural,Unburned,Other,0.03606034588495032
+2015,Non-forest natural,Unburned,Other agriculture,0.031890101803017296
+2015,Non-forest natural,Unburned,Pulpwood,0.006378020360603458
+2019,Forest,Burned,Forest,0.4666666666666667
+2019,Forest,Burned,Non-forest natural,0.4
+2019,Forest,Burned,Other,0.13333333333333333
+2019,Forest,Unburned,Forest,0.9659186143961263
+2019,Forest,Unburned,Non-forest natural,0.017195890368439024
+2019,Forest,Unburned,Oil palm,0.0061147841201849955
+2019,Forest,Unburned,Other,0.006332060713288016
+2019,Forest,Unburned,Other agriculture,0.0025142005773349475
+2019,Forest,Unburned,Pulpwood,0.0019244498246267499
+2019,Non-forest natural,Burned,Forest,0.038461538461538464
+2019,Non-forest natural,Burned,Non-forest natural,0.8365384615384616
+2019,Non-forest natural,Burned,Oil palm,0.009615384615384616
+2019,Non-forest natural,Burned,Other,0.09134615384615384
+2019,Non-forest natural,Burned,Other agriculture,0.02403846153846154
+2019,Non-forest natural,Unburned,Forest,0.06926816095058061
+2019,Non-forest natural,Unburned,Non-forest natural,0.8090737240075614
+2019,Non-forest natural,Unburned,Oil palm,0.03888738860383473
+2019,Non-forest natural,Unburned,Other,0.05549554415338914
+2019,Non-forest natural,Unburned,Other agriculture,0.020253848231163923
+2019,Non-forest natural,Unburned,Pulpwood,0.0070213340534701595
